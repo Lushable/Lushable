@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lushable&label=Profile%20views&color=0e75b6&style=flat" alt="lushable" /> </p>
 
-- 🔭 Üzerine çalıştığım proje **ft_printf**
+- 🔭 Üzerine çalıştığım proje: **ft_printf**
 
-- 🌱 Aktif olarak öğrenmekte olduğum **C, C++, Mühendislik**
+- 🌱 Aktif olarak öğrenmekte olduğum: **C, C++, Mühendislik**
 
-- 👨‍💻 Tüm projelerim ve çalışmalarım [[github.com/Lushable](github.com/Lushable)](https://github.com/Lushable)
+- 👨‍💻 Tüm projelerim ve çalışmalarım: (https://github.com/Lushable)
 
-- 📫 Mail **isfatih.lus@gmail.com**
+- 📫 Mail: **isfatih.lus@gmail.com**
 
-- 📄 CV [https://drive.google.com/file/d/13h_VCxDbT7Bt9pYRyOJ22dlIS5ilet4n/view?usp=sharing](https://drive.google.com/file/d/13h_VCxDbT7Bt9pYRyOJ22dlIS5ilet4n/view?usp=sharing)
+- 📄 CV: [https://drive.google.com/file/d/13h_VCxDbT7Bt9pYRyOJ22dlIS5ilet4n/view?usp=sharing](https://drive.google.com/file/d/13h_VCxDbT7Bt9pYRyOJ22dlIS5ilet4n/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
