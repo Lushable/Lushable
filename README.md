@@ -9,7 +9,7 @@
 
 - 🌱 Aktif olarak öğrenmekte olduğum **C, C++, Mühendislik**
 
-- 👨‍💻 Tüm projelerim ve çalışmalarım [github.com/Lushable](github.com/Lushable)
+- 👨‍💻 Tüm projelerim ve çalışmalarım [[github.com/Lushable](github.com/Lushable)](https://github.com/Lushable)
 
 - 📫 Mail **isfatih.lus@gmail.com**
 
