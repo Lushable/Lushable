@@ -13,7 +13,7 @@
 
 - 📫 Mail: **isfatih.lus@gmail.com**
 
-- 📄 CV: [https://drive.google.com/file/d/13h_VCxDbT7Bt9pYRyOJ22dlIS5ilet4n/view?usp=sharing](https://drive.google.com/file/d/13h_VCxDbT7Bt9pYRyOJ22dlIS5ilet4n/view?usp=sharing)
+- 📄 CV: [Fatih's Resume](https://drive.google.com/file/d/13h_VCxDbT7Bt9pYRyOJ22dlIS5ilet4n/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
