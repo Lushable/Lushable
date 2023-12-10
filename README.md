@@ -7,7 +7,7 @@
 
 - 🔭 Üzerine çalıştığım proje: **Born2BeRoot**
 
-- 🌱 Aktif olarak öğrenmekte olduğum: **C, C++, Mühendislik**
+- 🌱 Aktif olarak öğrenmekte olduğum: **C, C++, UNITY, C#**
 
 - 👨‍💻 Tüm projelerim ve çalışmalarım: (https://github.com/Lushable)
 
