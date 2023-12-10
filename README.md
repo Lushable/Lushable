@@ -29,5 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lushable&show_icons=true&locale=en" alt="lushable" /></p>
 
-![Uploading AppleFall - SampleScene - Windows, Mac, Linux - Unity 2023.1.19f1 _DX11_ 2023-12-11 00-37-39 (online-video-cutter.com) (1).gif…]()
-
+![AppleFall - SampleScene - Windows, Mac, Linux - Unity 2023 1 19f1 _DX11_ 2023-12-11 00-37-39 (online-video-cutter com) (1)](https://github.com/Lushable/Lushable/assets/94830279/fa08048d-c6fe-45a5-9cd7-64a91ff28f84)
