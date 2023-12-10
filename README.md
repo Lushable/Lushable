@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lushable&label=Profile%20views&color=0e75b6&style=flat" alt="lushable" /> </p>
 
-- 🔭 Üzerine çalıştığım proje: **ft_printf**
+- 🔭 Üzerine çalıştığım proje: **Born2BeRoot**
 
 - 🌱 Aktif olarak öğrenmekte olduğum: **C, C++, Mühendislik**
 
